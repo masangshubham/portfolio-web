@@ -23,7 +23,7 @@ const Hero = (props) => (
       <SectionText></SectionText>
       <Button>
         <a
-          href="https://masangshubham.github.io/portfolio-web/blob/main/public/ShubhamMasang.pdf"
+          href="https://masangshubham.github.io/Portfolio/ShubhamMasang.pdf"
           target="_blank"
           style={{ color: "inherit" }}
         >

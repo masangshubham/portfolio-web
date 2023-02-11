@@ -10,7 +10,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>DM me at Linkedin</LinkTitle>
-          <LinkItem href="www.linkedin.com/in/shubhammasang">Shubham Masang</LinkItem>
+          <LinkItem href="https://www.linkedin.com/in/shubhammasang/">Shubham Masang</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>In search for internship.<br /> Get in touch to colaborate on projects or career opportunities</Slogan>
+          <Slogan>In search for internship.<br /> Get in touch to colaborate on projects or career opportunities.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/masangshubham">
